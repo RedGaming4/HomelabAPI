@@ -10,6 +10,7 @@ This repository contains a FastAPI application that serves as a management dashb
 - Display key metrics for each container (e.g., name, ID, status, image).
 - Integrate with Prometheus to expose metrics for monitoring.
 - Serve a web interface using Jinja2 templates.
+- provide minecraft server metrics such as tps etc through opensource plugin.
 
 ## Requirements
 
